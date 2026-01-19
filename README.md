@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is my work account. My open source work can be found under my personal account: [@stephenc](https://github.com/stephenc)
+
 <!--
 **stephenc-ori/stephenc-ori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
